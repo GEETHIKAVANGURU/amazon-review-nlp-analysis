@@ -16,4 +16,12 @@ Amazon PC product reviews dataset.
 - Hardware issue frequency analysis
 
 ## Key Findings
+
 Analysis of negative reviews shows that hardware components such as screens, storage drives, and batteries appear frequently in customer complaints, suggesting that reliability of core device components plays a major role in negative user experiences.
+## Tools & Libraries
+Python  
+Pandas  
+Scikit-learn  
+Matplotlib  
+WordCloud  
+Natural Language Processing (NLP)
